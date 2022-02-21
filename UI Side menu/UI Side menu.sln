@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI Side menu", "UI Side menu\UI Side menu.csproj", "{9A1F9DB0-9260-4A62-B375-733E067D8933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1F9DB0-9260-4A62-B375-733E067D8933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1F9DB0-9260-4A62-B375-733E067D8933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1F9DB0-9260-4A62-B375-733E067D8933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1F9DB0-9260-4A62-B375-733E067D8933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE05135-B5E9-4D97-AD9E-6CE7D17467C8}
+	EndGlobalSection
+EndGlobal
